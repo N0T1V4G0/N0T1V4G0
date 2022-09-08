@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Barbosa</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74b4662c-5fd8-4737-8ff7-ce90016eb473/dbjugzj-5b7a2bc5-f38d-484d-b99c-0bd2e1f57201.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0YjQ2NjJjLTVmZDgtNDczNy04ZmY3LWNlOTAwMTZlYjQ3M1wvZGJqdWd6ai01YjdhMmJjNS1mMzhkLTQ4NGQtYjk5Yy0wYmQyZTFmNTcyMDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sjyJkNZoHjHR34uyNDLh-e_AFeGQfoRxzFPUfPSViH0"/>
+<img align="right" alt="Coding" width="200" height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74b4662c-5fd8-4737-8ff7-ce90016eb473/dbjugzj-5b7a2bc5-f38d-484d-b99c-0bd2e1f57201.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0YjQ2NjJjLTVmZDgtNDczNy04ZmY3LWNlOTAwMTZlYjQ3M1wvZGJqdWd6ai01YjdhMmJjNS1mMzhkLTQ4NGQtYjk5Yy0wYmQyZTFmNTcyMDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sjyJkNZoHjHR34uyNDLh-e_AFeGQfoRxzFPUfPSViH0"/>
 
 - 🔭 I’m currently working on **Spark Mobile**
 
