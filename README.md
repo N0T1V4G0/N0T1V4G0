@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **Spark Mobile**
 
-- 🌱 I’m currently learning **Golang** and **Python**
+- 🌱 I’m currently learning **Golang** and **Java**
 
 - 💬 Ask me about **TypeScript, Node, NestJS, React**
 
