@@ -21,6 +21,6 @@
 <div align="center">
 <a href="https://github.com/n0t1v4g0">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=n0t1v4g0&show_icons=true&theme=tokyonight"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0t1v4g0&layout=compact&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0t1v4g0&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
 </div>
 
