@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 <img align="right" alt="Coding" width="325" height="325" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74b4662c-5fd8-4737-8ff7-ce90016eb473/dbjugzj-5b7a2bc5-f38d-484d-b99c-0bd2e1f57201.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0YjQ2NjJjLTVmZDgtNDczNy04ZmY3LWNlOTAwMTZlYjQ3M1wvZGJqdWd6ai01YjdhMmJjNS1mMzhkLTQ4NGQtYjk5Yy0wYmQyZTFmNTcyMDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sjyJkNZoHjHR34uyNDLh-e_AFeGQfoRxzFPUfPSViH0"/>
 
-- 🔭 I’m currently working at **Spark Mobile**
+- 🔭 I’m currently working at **Spark Mobile** using **TypeScript** and **Java**
 
-- 🌱 I’m currently learning **Golang** and **Java**
+- 🌱 I’m currently learning microservices architecture and design patterns :D
 
-- 💬 Ask me about **TypeScript, Node, NestJS, React**
+- 💬 Ask me about **TypeScript, Java, Spring Boot, NestJS, React**
 
 - 📫 How to reach me: **lucasbcode@gmail.com**
 
@@ -21,6 +21,6 @@
 <div align="center">
 <a href="https://github.com/n0t1v4g0">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=n0t1v4g0&show_icons=true&theme=tokyonight"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0t1v4g0&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0t1v4g0&layout=compact&theme=tokyonight&hide=jupyter%20notebook,c%2B%2B,html,cmake,pug,css"/>
 </div>
 
